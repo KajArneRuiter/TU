@@ -1,0 +1,12 @@
+Antwoorden Quiz
+1. A, B
+2. A, B, C, D, E, F
+3. C
+4. D
+5. A, B, C
+6. TDD: Team krijgt feedback van test
+   BDD: Team krijgt feedback van Product Owner
+7. False
+8. True
+9. A, C
+10. Eigen invulling
